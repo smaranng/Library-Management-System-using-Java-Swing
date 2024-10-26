@@ -1,14 +1,13 @@
 
 
-Library Management System using Java Swing
+**Library Management System using Java Swing**
 
 
 A Java Swing-based Library Management System that allows users to manage books, track borrowed items, and store user details. The system is designed to help libraries organize their resources efficiently.
 
-Features
 
 
-Modules
+**Modules**
 
 
 The system is organized into two major modules:
@@ -19,7 +18,7 @@ Admin Module
 Customer Module
 
 
-Core Features
+**Core Features**
 
 
 Book Management: Add, update, delete, and search for books.
@@ -40,7 +39,7 @@ Graphical User Interface (GUI): Interactive and user-friendly GUI built with Jav
 Database Connectivity: Connects to a MySQL database to store and retrieve information securely.
 
 
-Admin Module
+**Admin Module**
 
 
 Admin Login - The handleAdminLogin() method allows the admin to log in with a username and password.
@@ -58,7 +57,7 @@ Search Books - The searchBooks() method allows for searching books by title.
 View Customer Feedback - The displayFeedback() method lets the admin view feedback submitted by customers.
 
 
-Customer Module
+**Customer Module**
 
 
 Customer Login - The handleStudentTeacherLogin() method allows customers to log in and access available features.
@@ -79,7 +78,7 @@ Return Book - The returnBook() method allows customers to return borrowed books.
 Provide Feedback - The collectCustomerFeedback() method allows customers to submit feedback, stored in the database.
 
 
-Technologies Used
+**Technologies Used**
 
 
 Java Swing for the graphical interface
