@@ -90,7 +90,7 @@ MySQL for the backend database
 JDBC for database connectivity
 
 
-Setup and Installation
+**Setup and Installation**
 
 
 Clone the repository:
@@ -101,7 +101,7 @@ Copy code
 git clone https://github.com/smaranng/LibManagementSystem-using-Java-Swing.git
 
 
-Database Setup:
+**Database Setup:**
 
 Install MySQL and create a database named lms.
 
@@ -114,20 +114,17 @@ Configure the Database Connection:
 Ensure the database connection details in your code (e.g., jdbc:mysql://localhost:3306/lms) match your MySQL configuration.
 
 
-Save Images:
+**Save Images:**
 
 Place images logo1.png, logo2.png, logo3.png in your Downloads directory.
 
 
-Run the Application:
+**Run the Application:**
 
 Compile and run the LibraryGUI.java file in your preferred IDE (e.g., Eclipse, VS Code).
 
 
-Usage
-
-
-Launching the System:
+**Launching the System:**
 
 
 Open the main application window by running LibraryGUI.java.
@@ -139,7 +136,7 @@ Navigating the System:
 Use the provided GUI to add or manage books, track user information, check out or return books, and submit feedback.
 
 
-Troubleshooting
+**Troubleshooting**
 
 
 No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your project’s classpath.
