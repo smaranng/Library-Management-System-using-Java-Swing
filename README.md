@@ -1,6 +1,6 @@
 
 
-## 🏦Library Management System using Java Swing**
+## 🏦Library Management System using Java Swing
 ---
 
 A Java Swing-based Library Management System that allows users to manage books, track borrowed items, and store user details. The system is designed to help libraries organize their resources efficiently.
@@ -143,4 +143,5 @@ No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your project�
 
 
 Image Not Displaying: Confirm that image paths are correctly specified in the code.
+
 
