@@ -1,33 +1,33 @@
 
 
-**Library Management System using Java Swing**
-
+## 🏦Library Management System using Java Swing**
+---
 
 A Java Swing-based Library Management System that allows users to manage books, track borrowed items, and store user details. The system is designed to help libraries organize their resources efficiently.
 
-
+---
 
 **Modules**
 
 
 The system is organized into two major modules:
 
-Admin Module
+- Admin Module
 
 
-Customer Module
+- Customer Module
 
 
 **Core Features**
 
 
-Book Management: Add, update, delete, and search for books.
+- Book Management: Add, update, delete, and search for books.
 
 
-User Management: Store and manage user information.
+- User Management: Store and manage user information.
 
 
-Borrowing System: Track borrowed and returned books with a fine of ₹1 imposed per day if a book is returned past the due date.
+- Borrowing System: Track borrowed and returned books with a fine of ₹1 imposed per day if a book is returned past the due date.
 
 
 Customer Feedback: Allows customers to provide feedback, viewable by the admin.
@@ -143,3 +143,4 @@ No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your project�
 
 
 Image Not Displaying: Confirm that image paths are correctly specified in the code.
+
