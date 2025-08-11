@@ -8,7 +8,7 @@ A Java Swing-based Library Management System that allows users to manage books, 
 ---
 
 **Modules**
-
+---
 
 The system is organized into two major modules:
 
@@ -19,7 +19,7 @@ The system is organized into two major modules:
 
 
 **Core Features**
-
+---
 
 - Book Management: Add, update, delete, and search for books.
 
@@ -30,13 +30,15 @@ The system is organized into two major modules:
 - Borrowing System: Track borrowed and returned books with a fine of â‚¹1 imposed per day if a book is returned past the due date.
 
 
-Customer Feedback: Allows customers to provide feedback, viewable by the admin.
+- Customer Feedback: Allows customers to provide feedback, viewable by the admin.
 
 
-Graphical User Interface (GUI): Interactive and user-friendly GUI built with Java Swing.
+- Graphical User Interface (GUI): Interactive and user-friendly GUI built with Java Swing.
 
 
-Database Connectivity: Connects to a MySQL database to store and retrieve information securely.
+- Database Connectivity: Connects to a MySQL database to store and retrieve information securely.
+
+---
 
 
 **Admin Module**
@@ -143,5 +145,6 @@ No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your projectâ
 
 
 Image Not Displaying: Confirm that image paths are correctly specified in the code.
+
 
 
