@@ -42,27 +42,28 @@ The system is organized into two major modules:
 
 
 **Admin Module**
+---
+
+- Admin Login - The handleAdminLogin() method allows the admin to log in with a username and password.
 
 
-Admin Login - The handleAdminLogin() method allows the admin to log in with a username and password.
+- Add Books - The insertBooks() method enables the admin to add new books to the system.
 
 
-Add Books - The insertBooks() method enables the admin to add new books to the system.
+- Display Books - The displayBooks() method displays a list of all available books.
 
 
-Display Books - The displayBooks() method displays a list of all available books.
+- Search Books - The searchBooks() method allows for searching books by title.
 
 
-Search Books - The searchBooks() method allows for searching books by title.
+- View Customer Feedback - The displayFeedback() method lets the admin view feedback submitted by customers.
 
-
-View Customer Feedback - The displayFeedback() method lets the admin view feedback submitted by customers.
-
+---
 
 **Customer Module**
+---
 
-
-Customer Login - The handleStudentTeacherLogin() method allows customers to log in and access available features.
+- Customer Login - The handleStudentTeacherLogin() method allows customers to log in and access available features.
 
 
 View Books - Customers can use displayBooks() to view a list of books.
@@ -145,6 +146,7 @@ No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your projectâ
 
 
 Image Not Displaying: Confirm that image paths are correctly specified in the code.
+
 
 
 
