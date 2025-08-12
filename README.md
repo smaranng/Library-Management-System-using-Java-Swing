@@ -66,23 +66,23 @@ The system is organized into two major modules:
 - Customer Login - The handleStudentTeacherLogin() method allows customers to log in and access available features.
 
 
-View Books - Customers can use displayBooks() to view a list of books.
+- View Books - Customers can use displayBooks() to view a list of books.
 
 
-Search Books - The searchBooks() method enables customers to search for a book by title.
+- Search Books - The searchBooks() method enables customers to search for a book by title.
 
 
-Borrow Book - Using the borrowBook() method, customers can borrow a book by entering its ID. The method checks availability and provides a due date.
+- Borrow Book - Using the borrowBook() method, customers can borrow a book by entering its ID. The method checks availability and provides a due date.
 
 
-Return Book - The returnBook() method allows customers to return borrowed books. If returned after the due date, a fine of ₹1 per day is imposed.
+- Return Book - The returnBook() method allows customers to return borrowed books. If returned after the due date, a fine of ₹1 per day is imposed.
 
 
-Provide Feedback - The collectCustomerFeedback() method allows customers to submit feedback, stored in the database.
+- Provide Feedback - The collectCustomerFeedback() method allows customers to submit feedback, stored in the database.
 
+---
 
 **Technologies Used**
-
 
 Java Swing for the graphical interface
 
@@ -146,6 +146,7 @@ No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your project�
 
 
 Image Not Displaying: Confirm that image paths are correctly specified in the code.
+
 
 
 
