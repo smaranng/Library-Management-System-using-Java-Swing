@@ -84,19 +84,20 @@ The system is organized into two major modules:
 
 **Technologies Used**
 
-Java Swing for the graphical interface
+- Java Swing for the graphical interface
 
 
-MySQL for the backend database
+- MySQL for the backend database
 
 
-JDBC for database connectivity
+- JDBC for database connectivity
 
+---
 
 **Setup and Installation**
 
 
-Clone the repository:
+- Clone the repository:
 
 Copy code
 
@@ -146,6 +147,7 @@ No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your projectâ
 
 
 Image Not Displaying: Confirm that image paths are correctly specified in the code.
+
 
 
 
