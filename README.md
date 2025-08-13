@@ -99,11 +99,11 @@ The system is organized into two major modules:
 
 - Clone the repository:
 
-Copy code
-
-
+```
 git clone https://github.com/smaranng/LibManagementSystem-using-Java-Swing.git
 
+```
+---
 
 **Database Setup:**
 
@@ -147,6 +147,7 @@ No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your projectâ
 
 
 Image Not Displaying: Confirm that image paths are correctly specified in the code.
+
 
 
 
