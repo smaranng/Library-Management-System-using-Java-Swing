@@ -112,10 +112,10 @@ git clone https://github.com/smaranng/LibManagementSystem-using-Java-Swing.git
 - Install MySQL and create a database named lms.
 
 
-Import the provided SQL file to set up tables.
+- Import the provided SQL file to set up tables.
 
 
-Configure the Database Connection:
+- Configure the Database Connection:
 
 Ensure the database connection details in your code (e.g., jdbc:mysql://localhost:3306/lms) match your MySQL configuration.
 
@@ -149,6 +149,7 @@ No Suitable Driver Error: Ensure the MySQL JDBC Driver is added to your projectâ
 
 
 Image Not Displaying: Confirm that image paths are correctly specified in the code.
+
 
 
 
