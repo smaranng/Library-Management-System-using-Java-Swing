@@ -119,13 +119,6 @@ Feel free to fork the repo, create a pull request, or open an issue if you find 
 
 ---
 
-## 📃 License
-
-Distributed under the MIT License.  
-See [LICENSE](LICENSE) for more information.
-
----
-
 ## 👤 Author
 
 **Smaran N G**  
@@ -134,3 +127,4 @@ See [LICENSE](LICENSE) for more information.
 ---
 
 **Enjoy managing your library with ease!**
+
